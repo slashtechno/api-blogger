@@ -7,7 +7,7 @@ require (
 	github.com/charmbracelet/log v0.4.0
 	github.com/go-git/go-git/v5 v5.12.0
 	github.com/go-resty/resty/v2 v2.13.1
-	github.com/goccy/go-yaml v1.11.3
+	github.com/goccy/go-yaml v1.12.0
 	github.com/gosimple/slug v1.14.0
 	github.com/spf13/afero v1.11.0
 	github.com/spf13/cobra v1.8.1
